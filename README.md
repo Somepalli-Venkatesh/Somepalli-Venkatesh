@@ -48,7 +48,7 @@
 - **Degree**: B.Tech in Computer Science Engineering
 - **Institution**: Vasireddy Venkatadri Institute of Technology
 - **Year**: Final Year (4th)
-- **Focus Areas**: Data Structures, Algorithms, System Design
+
 
 ### 🚀 Professional Journey
 - Currently working on an innovative **Major Project**
